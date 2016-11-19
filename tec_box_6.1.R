@@ -3,7 +3,6 @@
 ##' Vellend TEC - Box 6.1
 ##' http://mvellend.recherche.usherbrooke.ca/Box1.htm
 
-
 ## specify initial community and time instructions
 J <- 50
 init.1 <- J / 2
